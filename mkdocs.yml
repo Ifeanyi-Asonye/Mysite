@@ -1,0 +1,54 @@
+site_name: Ifeanyi Asonye.
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  palette:
+    primary: teal
+
+
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tab.sticky
+    - navigation.footer
+    - navigation.expand
+    - toc.integrate
+    - content.code.annotate
+    - content.code.copy
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://fosstodon.org/@squidfunk
+    - icon: fontawesome/brands/linkedin
+      link: https://github.com/squidfunk
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/squidfunk
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<email-address>
+generator: false
+
+nav:
+  - Home: index.md
+  - Blog:
+  
+  - About: about.md
+  - Contact: contact.md 
+  - Projects: projects.md 
+
+plugins:
+- search
+- blog
+
+
+markdown_extensions:
+  - admonition    
+  - codehilite
+
+
+copyright: Copyright &copy; 2026 Ifeanyi Asonye. All rights reserved.
