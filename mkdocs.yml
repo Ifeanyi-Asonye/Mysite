@@ -36,7 +36,9 @@ generator: false
 nav:
   - Home: index.md
   - Blog:
-  
+    - Post 1: blog/post1.md
+    - Post 2: blog/post2.md
+    - Post 3: blog/post3.md
   - About: about.md
   - Contact: contact.md 
   - Projects: projects.md 
