@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Hello, I'm [Your Name] 👋
 
 ## Welcome 👨‍💻

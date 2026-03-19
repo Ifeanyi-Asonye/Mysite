@@ -1,24 +1,39 @@
-site_name: Ifeanyi Asonye.
+site_name: Ifeanyi Asonye 
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+
   palette:
-    primary: teal
+    # Palette toggle for light mode
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 
   features:
     - navigation.instant
-    - navigation.instant.prefetch
     - navigation.instant.progress
-    - navigation.instant.preview
     - navigation.tracking
     - navigation.tabs
-    - navigation.tab.sticky
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
     - navigation.footer
     - navigation.expand
     - toc.integrate
-    - content.code.annotate
-    - content.code.copy
+    - toc.follow
+
 
 
 extra:
@@ -29,17 +44,16 @@ extra:
       link: https://linkedin.com/in/squidfunk
     - icon: fontawesome/solid/paper-plane
       link: mailto:<email-address>
-generator: false
+  generator: false
 
 nav:
   - Home: index.md
   - About: about.md
-  - Contact: contact.md 
+  - Blog:
+    - blog/index.md
 
 plugins:
 - search
 - blog
 
 
-
-copyright: Copyright &copy; 2026 Ifeanyi Asonye. All rights reserved.
