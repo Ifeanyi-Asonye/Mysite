@@ -1,4 +1,4 @@
-name: Deploy MkDocs site to GitHub Pages
+name: Deploy to github pages
 
 on:
   push:
@@ -38,7 +38,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: ./site
+          path: ./docs
 
   deploy:
     runs-on: ubuntu-latest
