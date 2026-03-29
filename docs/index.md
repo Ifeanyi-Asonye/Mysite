@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# { .md-display-1 } **Ifeanyi**
+# **Ifeanyi**
 
 **Systems Administrator & Cloud Support Engineer** [:material-linkedin: LinkedIn](https://linkedin.com/in/yourprofile) · [:material-github: GitHub](https://github.com/yourhandle) · [:material-email: Contact](mailto:your@email.com)
 
