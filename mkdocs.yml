@@ -33,6 +33,8 @@ theme:
     - navigation.expand
     - toc.integrate
     - toc.follow
+    - content.code.copy
+    - content.tabs.link
 
 
 
@@ -56,4 +58,15 @@ plugins:
 - search
 - blog
 
-
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
