@@ -5,11 +5,13 @@ hide:
 ---
 
 # { .md-display-1 } **Ifeanyi**
+
 **Systems Administrator & Cloud Support Engineer** [:material-linkedin: LinkedIn](https://linkedin.com/in/yourprofile) · [:material-github: GitHub](https://github.com/yourhandle) · [:material-email: Contact](mailto:your@email.com)
 
 ---
 
 ## **The Mission**
+
 > I bridge the gap between infrastructure stability and operational excellence. With over 6 years of experience across the technical spectrum, my focus is on building resilient systems through the lens of **Site Reliability Engineering (SRE)**.
 
 ---
