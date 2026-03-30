@@ -19,9 +19,5 @@ Got a question? Want to collaborate? Just want to say hi? I'd love to hear from 
 
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourprofile](https://github.com/yourprofile)
 
 Feel free to reach out anytime—I genuinely enjoy connecting with people!
-
-
-
