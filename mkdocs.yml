@@ -51,9 +51,8 @@ extra:
 nav:
   - Home: index.md
   - About: about.md
-  - Projects:
-    - project1.md
-    - project2.md
+  - Projects: projects.md
+
   - Blog:
     - blog/index.md
 
