@@ -27,7 +27,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.sections
+    - navigation.top
     - navigation.path
     - navigation.footer
     - navigation.expand
@@ -51,6 +51,9 @@ extra:
 nav:
   - Home: index.md
   - About: about.md
+  - Projects:
+    - project1.md
+    - project2.md
   - Blog:
     - blog/index.md
 
