@@ -1,67 +1,57 @@
 ---
 hide:
-  - navigation
   - toc
 ---
 
-# { .md-display-1 } **Ifeanyi**
-**Systems Administrator & Cloud Support Engineer** *Transitioning to Site Reliability Engineering (SRE)*
+# Hello, I'm Ifeanyi 👋
 
-[:material-linkedin: LinkedIn](https://linkedin.com/in/yourprofile) · [:material-github: GitHub](https://github.com/yourhandle) · [:material-email: Contact](mailto:your@email.com)
-
----
-
-## **Professional Profile**
-> I am a **Systems Administrator** and **Cloud Support Engineer** currently evolving into the **SRE** domain. My approach combines deep technical infrastructure knowledge with a service-first mindset developed over 6+ years of troubleshooting complex environments.
+## Systems Administrator & Cloud Support Engineer
+**The Path to SRE** | [:material-linkedin: LinkedIn](https://linkedin.com) · [:material-email: Email](mailto:you@example.com)
 
 ---
 
-## **The Skill Stack**
+## The Story So Far 👨‍💻
 
-### :material-account-group: **Foundational (Retail & Helpdesk)**
-* **Customer Advocacy:** Translating complex technical issues into actionable business value.
-* **High-Pressure De-escalation:** Maintaining composure and clarity during critical service outages.
-* **Technical Troubleshooting:** Rapid diagnostic skills for hardware, OS, and network connectivity.
-* **Knowledge Management:** Creating accessible documentation for both end-users and internal teams.
+I’m currently working in **Systems Administration** and **Cloud Support**, but my head and heart are moving toward **Site Reliability Engineering (SRE)**. 
 
-### :material-server-network: **Core Systems & Cloud**
-* **Systems Administration:** Managing Linux/Windows server environments, AD/LDAP, and virtualization.
-* **Cloud Operations:** Deploying and scaling resilient workloads on **AWS, Azure, and GCP**.
-* **Infrastructure as Code:** Automating environment parity using **Terraform** and **Ansible**.
-* **Network Security:** Implementing VPCs, Firewalls, and IAM least-privilege policies.
-
-### :material-transition-masked: **SRE Focus Areas**
-* **Containerization:** Packaging and deploying microservices with **Docker** and **Kubernetes**.
-* **Incident Management:** Leading on-call rotations and streamlining emergency response workflows.
-* **Root Cause Analysis (RCA):** Conducting blameless post-mortems to turn failures into system improvements.
-* **Observability:** Building dashboards in **Grafana** and **Prometheus** to monitor "Golden Signals."
+What makes my path a bit different? I spent years in **Retail** and **Helpdesk** before diving into deep infrastructure. That means I don’t just care if a server is "up"—I care about the person on the other side of the screen. I’m the guy who bridges the gap between complex cloud architecture and the actual user experience.
 
 ---
 
-## **Career Journey**
+## What I Bring to the Table
 
-<div class="grid cards" markdown>
+### **The Foundations (Retail & Helpdesk)**
+* **High-Pressure De-escalation:** If you’ve handled an angry holiday crowd in retail, you can handle a P0 production outage without breaking a sweat.
+* **Customer Advocacy:** I’ve learned to translate "tech-heavy" problems into simple solutions that make sense to everyone.
 
--   __The Start: Retail & Helpdesk__
-    ---
-    Built the "Human-Centric" foundation. Learned that every 500 error affects a real person.
+### **Core Infrastructure (SysAdmin & Cloud)**
+* **Systems Mastery:** Years of managing Linux/Windows environments and keeping Active Directory healthy.
+* **Cloud Operations:** Building and scaling in **AWS, Azure, and GCP**.
+* **Infrastructure as Code:** Using **Terraform** and **Ansible** to stop doing things manually and start doing them reliably.
 
--   __The Core: SysAdmin & Cloud__
-    ---
-    Mastered the "How." Shifting from managing individual servers to managing global cloud fleets.
-
--   __The Future: SRE__
-    ---
-    Focusing on the "Why." Automating away toil and engineering for 99.9% reliability.
-
-</div>
+### **The SRE Toolkit (Current Focus)**
+* **Containers:** Packaging apps with **Docker** and orchestrating with **Kubernetes**.
+* **Incident Management:** I don’t just fix things; I lead the response and write the **Root Cause Analysis (RCA)** to make sure it doesn't happen again.
+* **Observability:** Using **Prometheus** and **Grafana** to see problems before the users do.
 
 ---
 
-### **Let's Connect**
-If you're interested in discussing **Infrastructure Reliability**, **Cloud Architecture**, or the transition from **Support to Engineering**, I'd love to chat.
+## Featured Work
+*Check out what I’ve been building lately:*
+
+* **[Project Name One]**: A deep dive into automating cloud deployments with Terraform.
+* **[Project Name Two]**: Setting up a monitoring stack to track "Golden Signals" in K8s.
+* **[Project Name Three]**: Building a self-healing infrastructure script with Python.
+
+[**View All Projects**](projects.md){ .md-button .md-button--primary }
 
 ---
-<p align="center">
-  <small>Built with Material for MkDocs</small>
-</p>
+
+## My Journey
+**Retail** $\rightarrow$ **IT Support** $\rightarrow$ **SysAdmin** $\rightarrow$ **Cloud Support** $\rightarrow$ **SRE**
+
+Each step has taught me that reliability is about more than just uptime—it’s about trust.
+
+---
+
+**Let’s connect** if you want to talk about infrastructure, automating away the boring stuff, or how to build systems that actually last.
