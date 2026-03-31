@@ -4,65 +4,62 @@ hide:
   - toc
 ---
 
-# **Ifeanyi**
+# { .md-display-1 } **Ifeanyi**
+**Systems Administrator & Cloud Support Engineer** *Transitioning to Site Reliability Engineering (SRE)*
 
-**Systems Administrator & Cloud Support Engineer** [:material-linkedin: LinkedIn](https://linkedin.com/in/yourprofile) · [:material-github: GitHub](https://github.com/yourhandle) · [:material-email: Contact](mailto:your@email.com)
-
----
-
-## **The Mission**
-
-> I bridge the gap between infrastructure stability and operational excellence. With over 6 years of experience across the technical spectrum, my focus is on building resilient systems through the lens of **Site Reliability Engineering (SRE)**.
+[:material-linkedin: LinkedIn](https://linkedin.com/in/yourprofile) · [:material-github: GitHub](https://github.com/yourhandle) · [:material-email: Contact](mailto:your@email.com)
 
 ---
 
-## **Core Competencies**
+## **Professional Profile**
+> I am a **Systems Administrator** and **Cloud Support Engineer** currently evolving into the **SRE** domain. My approach combines deep technical infrastructure knowledge with a service-first mindset developed over 6+ years of troubleshooting complex environments.
+
+---
+
+## **The Skill Stack**
+
+### :material-account-group: **Foundational (Retail & Helpdesk)**
+* **Customer Advocacy:** Translating complex technical issues into actionable business value.
+* **High-Pressure De-escalation:** Maintaining composure and clarity during critical service outages.
+* **Technical Troubleshooting:** Rapid diagnostic skills for hardware, OS, and network connectivity.
+* **Knowledge Management:** Creating accessible documentation for both end-users and internal teams.
+
+### :material-server-network: **Core Systems & Cloud**
+* **Systems Administration:** Managing Linux/Windows server environments, AD/LDAP, and virtualization.
+* **Cloud Operations:** Deploying and scaling resilient workloads on **AWS, Azure, and GCP**.
+* **Infrastructure as Code:** Automating environment parity using **Terraform** and **Ansible**.
+* **Network Security:** Implementing VPCs, Firewalls, and IAM least-privilege policies.
+
+### :material-transition-masked: **SRE Focus Areas**
+* **Containerization:** Packaging and deploying microservices with **Docker** and **Kubernetes**.
+* **Incident Management:** Leading on-call rotations and streamlining emergency response workflows.
+* **Root Cause Analysis (RCA):** Conducting blameless post-mortems to turn failures into system improvements.
+* **Observability:** Building dashboards in **Grafana** and **Prometheus** to monitor "Golden Signals."
+
+---
+
+## **Career Journey**
 
 <div class="grid cards" markdown>
 
--   :material-cloud-outline: __Cloud Infrastructure__
+-   __The Start: Retail & Helpdesk__
     ---
-    AWS, Azure, & GCP management with a focus on high availability.
+    Built the "Human-Centric" foundation. Learned that every 500 error affects a real person.
 
--   :material-infinity: __DevOps & IaC__
+-   __The Core: SysAdmin & Cloud__
     ---
-    Terraform, CloudFormation, and Ansible for automated provisioning.
+    Mastered the "How." Shifting from managing individual servers to managing global cloud fleets.
 
--   :material-docker: __Containerization__
+-   __The Future: SRE__
     ---
-    Orchestrating scalable workloads using Docker and Kubernetes.
-
--   :material-chart-timeline-variant: __Observability__
-    ---
-    Prometheus, Grafana, and ELK Stack for proactive monitoring.
-
--   :material-script-text-outline: __Automation__
-    ---
-    Streamlining workflows with Python, Bash, and PowerShell.
-
--   :material-shield-check-outline: __Reliability__
-    ---
-    Incident Management, Root Cause Analysis (RCA), and Runbooks.
+    Focusing on the "Why." Automating away toil and engineering for 99.9% reliability.
 
 </div>
 
 ---
 
-## **Career Evolution**
-
-The journey from customer-facing retail to SRE has instilled a unique blend of **technical precision** and **user empathy**.
-
-| Phase | Focus |
-| :--- | :--- |
-| **Foundations** | Retail Support & Customer Experience |
-| **Growth** | IT Helpdesk & Systems Administration |
-| **Specialization** | Cloud Support & Infrastructure Engineering |
-| **Current** | **Site Reliability Engineering (SRE)** |
-
----
-
-## **Latest Focus**
-I am currently deep-diving into **automating operational workflows** and mentoring teams on SRE best practices. If you're interested in infrastructure reliability or cloud architecture, **let's connect.**
+### **Let's Connect**
+If you're interested in discussing **Infrastructure Reliability**, **Cloud Architecture**, or the transition from **Support to Engineering**, I'd love to chat.
 
 ---
 <p align="center">
