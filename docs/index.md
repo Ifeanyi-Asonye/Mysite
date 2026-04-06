@@ -14,8 +14,8 @@ As a 𝗦𝘆𝘀𝗔𝗱𝗺𝗶𝗻 𝗮𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 
 
 ---
 
-| **Foundations** | Retail Support & Customer Experience |
-| **Growth** | IT Helpdesk | System Administration & Support Engineering
+**Foundations** | Retail Support & Customer Experience
+**Growth** | IT Helpdesk | System Administration & Support Engineering
 
 ---
 
