@@ -62,9 +62,7 @@ plugins:
 
 markdown_extensions:
   - admonition
-  - codehilite
   - footnotes
-  - meta
   - attr_list
   - md_in_html
   - pymdownx.emoji:
