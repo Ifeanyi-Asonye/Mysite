@@ -1,40 +1,18 @@
 ---
 hide:
-  - navigation
   - toc
 ---
 
-**Sysadmin & Support Engineer** [:material-linkedin: LinkedIn](https://linkedin.com/in/yourprofile) · [:material-email: Contact](mailto:asonyejude@gmail.com)
+# **Ifeanyi**
+
+**Systems Administrator & Cloud Support Engineer** [:material-linkedin: LinkedIn](https://linkedin.com/in/yourprofile) · [:material-github: GitHub](https://github.com/yourhandle) · [:material-email: Contact](mailto:your@email.com)
 
 ---
 
-I’m the person you call when things break, and the one working behind the scenes to make sure they don’t. Over the 𝗹𝗮𝘀𝘁 9 𝘆𝗲𝗮𝗿𝘀, I’ve navigated everything from small retail business tech support to enterprise-level helpdesks and system administration to complex server and user environments. 
+## **The Mission**
 
-As a 𝗦𝘆𝘀𝗔𝗱𝗺𝗶𝗻 𝗮𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 for 3years now, I’ve learned that great IT is about more than just uptime; it’s about making sure technology actually makes sense for the people using it. I enjoy the puzzle of a deep-system dive just as much as I enjoy translating a complex technical fix into plain English. Whether I’m stabilizing infrastructure or untangling a tricky support ticket, my goal is always the same: keep the systems running fast and the users feeling supported.
+> I bridge the gap between infrastructure stability and operational excellence. With over 6 years of experience across the technical spectrum, my focus is on building resilient systems through the lens of **Site Reliability Engineering (SRE)**.
 
-
-
-# *𝗪𝗵𝗮𝘁 𝗜 𝗯𝗿𝗶𝗻𝗴:*
-
-- A calm head when things get technical.
-
-- An obsession with fixing the root cause, not just the symptom.
-
-- A belief that "IT should be a bridge, not a bottleneck".
-
-
-
-# *𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹:*
-
-1. *𝗢𝗦:* Windows, Windows Server, Linux 
-
-2. *𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲: Dell/HP Servers, Dell/HP/Lenovo, AlienWare workstations,  Cisco devices, Synology. 
-
-3. 𝗧𝗲𝗰𝗵: Active Directory, IAM,  Office 365, Virtualization (VMware/Hyper-V, VMware, Proxmox)
-
-4. 𝗖𝗼𝗻𝘁𝗮𝗶𝗻𝗲𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻 & 𝗖𝗹𝗼𝘂𝗱: Docker, Podman, AWS, Azure 
-
-5. 𝗢𝘁𝗵𝗲𝗿𝘀: Git, Bash, Incident management, RCA, DR, Documentation
 ---
 
 ## **Core Competencies**
@@ -69,12 +47,21 @@ As a 𝗦𝘆𝘀𝗔𝗱𝗺𝗶𝗻 𝗮𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 
 
 ---
 
+## **Career Evolution**
+
+The journey from customer-facing retail to SRE has instilled a unique blend of **technical precision** and **user empathy**.
+
 | Phase | Focus |
 | :--- | :--- |
 | **Foundations** | Retail Support & Customer Experience |
-| **Growth** | IT Helpdesk | System Administration & Support Engineering
+| **Growth** | IT Helpdesk & Systems Administration |
+| **Specialization** | Cloud Support & Infrastructure Engineering |
+| **Current** | **Site Reliability Engineering (SRE)** |
 
 ---
+
+## **Latest Focus**
+I am currently deep-diving into **automating operational workflows** and mentoring teams on SRE best practices. If you're interested in infrastructure reliability or cloud architecture, **let's connect.**
 
 ---
 <p align="center">

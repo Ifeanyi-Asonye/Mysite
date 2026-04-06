@@ -17,8 +17,15 @@ So whether you're wondering why I switched careers or just want to chat about te
 
 Got a question? Want to collaborate? Just want to say hi? I'd love to hear from you.
 
+<<<<<<< HEAD
 - **Email:** [your.email@example.com](mailto:asonyejude@gmail.com)
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ifeany-asonye)
 
 
 Feel free to reach out anytime — I genuinely enjoy connecting with people!
+=======
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+Feel free to reach out anytime—I genuinely enjoy connecting with people!
+>>>>>>> 3883ec43400b0c02e8b27020dd70451f6662fbf8
