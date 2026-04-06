@@ -58,7 +58,8 @@ nav:
 
 plugins:
 - search
-- blog
+- blog:
+    blog_dir: .
 
 markdown_extensions:
   - admonition
