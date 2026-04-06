@@ -1,5 +1,5 @@
 
-# Projects Portfolio
+# Projects
 
 ### 1. Cloud Infrastructure Automation
 **Description:** Designed and deployed production-grade infrastructure for an enterprise SaaS platform, with a focus on high availability, cost optimization, and security compliance.
