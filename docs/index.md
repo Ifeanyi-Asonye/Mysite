@@ -10,7 +10,7 @@ hide:
 
 I’m the person you call when things break, and the one working behind the scenes to make sure they don’t. Over the 𝗹𝗮𝘀𝘁 9 𝘆𝗲𝗮𝗿𝘀, I’ve navigated everything from small retail business tech support to enterprise-level helpdesks and system administration to complex server and user environments.
 
-As a 𝗦𝘆𝘀𝗔𝗱𝗺𝗶𝗻 𝗮𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 for 3years now, I’ve learned that great IT is about more than just uptime; it’s about making sure technology actually makes sense for the people using it. I enjoy the puzzle of a deep-system dive just as much as I enjoy translating a complex technical fix into plain English. Whether I’m stabilizing infrastructure or untangling a tricky support ticket, my goal is always the same: keep the systems running fast and the users feeling supported.
+As a 𝗦𝘆𝘀𝗔𝗱𝗺𝗶𝗻 𝗮𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 for 3 years now, I’ve learned that great IT is about more than just uptime; it’s about making sure technology actually makes sense for the people using it. I enjoy the puzzle of a deep-system dive just as much as I enjoy translating a complex technical fix into plain English. Whether I’m stabilizing infrastructure or untangling a tricky support ticket, my goal is always the same: keep the systems running fast and the users feeling supported.
 
 # **𝗪𝗵𝗮𝘁 𝗜 𝗯𝗿𝗶𝗻𝗴:**
 - A calm head when things get technical.
