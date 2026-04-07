@@ -53,6 +53,8 @@ nav:
   - About: about.md
   - Projects: projects.md
 
+  - Blog:
+    - blog_dir: .
 
 plugins:
 - search
