@@ -1,4 +1,4 @@
-site_name: Ifeanyi.  
+site_name: Ifeanyi A.  
 site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -45,7 +45,7 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/squidfunk
     - icon: fontawesome/solid/paper-plane
-      link: mailto:<email-address>
+      link: mailto:<asonyejude@gmail.com>
   generator: false
 
 nav:
@@ -53,8 +53,6 @@ nav:
   - About: about.md
   - Projects: projects.md
 
-  - Blog:
-    - blog/index.md
 
 plugins:
 - search
