@@ -1,7 +1,7 @@
 
 # Projects
 
-### 1. Cloud Infrastructure Automation
+### 1. Project 1
 **Description:** 
 
 **Key Features:**
