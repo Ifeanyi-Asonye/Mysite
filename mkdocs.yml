@@ -48,18 +48,18 @@ extra:
       link: mailto:<asonyejude@gmail.com>
   generator: false
 
+plugins:
+- search
+- blog
+
 nav:
   - Home: index.md
   - About: about.md
   - Projects: projects.md
+  - Blog: 
+    - blog/index.md
 
-  - Blog:
-    - blog_dir: .
 
-plugins:
-- search
-- blog:
-    blog_dir: .
 
 markdown_extensions:
   - admonition

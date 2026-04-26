@@ -33,8 +33,10 @@ As a 𝗦𝘆𝘀𝗔𝗱𝗺𝗶𝗻 𝗮𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 
 5. 𝗢𝘁𝗵𝗲𝗿𝘀: Git, Bash, Incident management, RCA, DR, Documentation
 
 ---
-[**View Projects Here**](projects.md){ .md-button .md-button--primary }
+[*View Projects Here*](projects.md){ .md-button .md-button--primary }
 ---
+
+
 <p align="center">
   <small>Built with Material for MkDocs</small>
 </p>
