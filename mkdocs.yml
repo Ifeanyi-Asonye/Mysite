@@ -43,7 +43,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://fosstodon.org/@squidfunk
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/squidfunk
+      link: https://linkedin.com/in/ifeanyi-asonye
     - icon: fontawesome/solid/paper-plane
       link: mailto:<asonyejude@gmail.com>
   generator: false
