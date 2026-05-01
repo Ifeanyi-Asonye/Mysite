@@ -1,10 +1,10 @@
 
 # Projects
 
-### 1. Project 1
+### 1. Containerization of a Two Tier Application 
 **Description:** 
 
-**Key Features:**
+**Key Features:** The wordpress could communicate seamlessly 
 
 
 **Technologies & Tools:**

@@ -50,7 +50,12 @@ extra:
 
 plugins:
 - search
-- blog
+- blog:
+    post_meta:
+      - date
+      - author
+      - categories
+      - readtime
 
 nav:
   - Home: index.md
