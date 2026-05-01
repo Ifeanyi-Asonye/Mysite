@@ -14,12 +14,10 @@ categories:
 “Creativity is not a talent. It is a way of operating.”
 —John Cleese
 
-<aside>
-💡
 
 Imagine if your next boss didn’t have to read your resume because he already read your blog. Imagine being a student and getting your first gig based on a school project you posted online. Imagine losing your job but having a social network of people familiar with your work and ready to help you find a new one. Imagine turning a side project or a hobby into your profession because you had a following that could support you; this is what this book is about. it offers a refreshing take on building an audience and fostering creative connections. It's not about seeking perfection or hiding your process—it's about showing up authentically, consistently, and generously.
 
-</aside>
+<!-- more -->
 
 This was condensed into 10 ideas, or as he called them, “ways to share your creativity and get discovered.” 
 
@@ -77,15 +75,13 @@ What if you want to share something and you don’t know where it came from or w
 
 Sometimes, work doesn’t speak for itself you know. People resonate with stories, not just facts. Frame your work and process in a way that feels personal and meaningful.  Words matter. Artists love to trot out the tired line, “My work speaks for itself,” but the truth is, our work doesn’t speak for itself. Human beings want to know where things came from, how they were made, and who made them. The stories you tell about the work you do have a huge effect on how people feel and what they understand about your work, and how people feel and what they understand about your work effects how they value it. Also remember that structure is everything. 
 
-<aside>
-💡
 
 > Everybody loves a good story, but good storytelling doesn’t come easy to
 everybody. It’s a skill that takes a lifetime to master. So study the great stories
 and then go find some of your own. Your stories will get better the more you tell
 them.
 > 
-</aside>
+
 
 6. **Teach as You Learn**
 Teaching isn’t about having all the answers—it’s about sharing what you know in a way that helps others grow.
@@ -131,12 +127,10 @@ about what the RIGHT people think of you.”
 9. **Embrace Value Exchange**
 Monetizing your work isn’t selling out—it’s creating a fair exchange. If your work adds value, people will support it.
 
-<aside>
-💡
 
 Whether you ask for donations, crowdfund, or sell your products or services, asking for money in return for your work is a leap you want to take only when you feel confident that you’re putting work out into the world that you think is truly worth something. Don’t be afraid to charge for your work, but put a price on it that you think is fair
 
-</aside>
+
 
 > *“We don’t make movies to make money, we make money to make more movies.” —Walt Disney*
 > 

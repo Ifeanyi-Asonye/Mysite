@@ -14,6 +14,8 @@ We are constantly chasing dreams, sprinting through the days, climbing mountains
 
 and crafting legacies, one after another.
 
+<!-- more -->
+
 But in this race for more, for better, for higher, we forget the silent whispers of the wind, 
 
 the soft hum of the earth beneath our feet, and the beauty in the pause where it all started.

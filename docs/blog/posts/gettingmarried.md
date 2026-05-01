@@ -11,6 +11,8 @@ Getting married is a beautiful and, at the same time, an overwhelming adventure.
 
 To keep this short and straightforward, I won't be discussing all the considerations one must take before, during, and after the wedding ceremony. Plenty of resources already cater to this, in fact, my sister's channel covers it in detail, so go check it out [here](https://www.youtube.com/watch?v=9fPRrcQmbM0)!
 
+<!-- more -->
+
 I will, however, offer a warning: these resources are often centered around the preferences, personality, and specific circumstances to mention a few. Be selective, and only **pick and choose what works for *you*** from all the advice you encounter. Remember that the wedding is just a ceremony; the marriage is what lasts a lifetime, so plan wisely.
 
 With that out of the way, this piece focuses on one critical aspect of the preparation process: the **legal registry**. This process has become increasingly important, as the resulting certificate is typically the only one recognized internationally.
