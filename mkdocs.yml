@@ -40,8 +40,6 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://fosstodon.org/@squidfunk
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/ifeanyi-asonye
     - icon: fontawesome/solid/paper-plane
@@ -53,7 +51,6 @@ plugins:
 - blog:
     post_meta:
       - date
-      - author
       - categories
       - readtime
 

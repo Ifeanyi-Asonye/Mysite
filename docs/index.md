@@ -14,7 +14,8 @@ As a 𝗦𝘆𝘀𝗔𝗱𝗺𝗶𝗻 𝗮𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 
 
 ---
 
-**Foundations** | Retail Support & Customer Experience ---- **Growth** | IT Helpdesk | System Administration & Support Engineering
+- **Foundations** --- Retail Support & Customer Experience 
+- **Growth** --- IT Helpdesk | System Administration & Support Engineering
 
 ---
 
@@ -33,8 +34,7 @@ As a 𝗦𝘆𝘀𝗔𝗱𝗺𝗶𝗻 𝗮𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 
 5. 𝗢𝘁𝗵𝗲𝗿𝘀: Git, Bash, Incident management, RCA, DR, Documentation
 
 ---
-[*View Projects Here*](projects.md){ .md-button .md-button--primary }
----
+[View projects here --->](projects.md)
 
 
 <p align="center">
