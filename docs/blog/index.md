@@ -11,3 +11,7 @@ This blog is a place to slow those moments down.
 Here, I write about work because work shapes how we spend our days. I write about systems because they reveal how much we value reliability and care. And I write about life because none of this exists in isolation — careers, relationships, faith, growth, and rest all overlap whether we acknowledge it or not.
 
 If something here helps you feel less alone in your own process, then this blog is doing its job.
+
+---
+
+
