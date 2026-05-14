@@ -1,4 +1,4 @@
-# OpenSauceProject
+# OpenSauce
 Here's the idea behind this blog, I didn’t start this blog because I have everything figured out.
 
 I started it because I noticed that many of the most important lessons in work and life don’t come from grand successes. They come from quiet moments — fixing a system no one noticed was broken, asking for help when pride says not to, learning something the hard way, or sitting with a life change and trying to make sense of it.
