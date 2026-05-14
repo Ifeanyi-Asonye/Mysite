@@ -141,3 +141,6 @@ You will be required to come to the registry on the approved date for the ceremo
 - **Timing:** Come early for the ceremony, and you are welcome to invite friends and family if you choose.
 
 NB: These is purely from a personal opinion and experience
+
+---
+

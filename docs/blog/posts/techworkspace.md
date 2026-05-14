@@ -18,3 +18,6 @@ Over the past few decades, tech professionals have championed sharing of knowled
 This message is for YOU, especially you who was taught to toil in silence rather than seek guidance. It's okay to ask for help. It's perfectly fine to seek clarification, to request that complex problems be broken down into understandable steps, and it's completely normal to feel hesitant at first, given a lifetime of being told otherwise.
 
 The more you ask (without turning it into a substitute for critical thinking), the better and faster you'll become at accomplishing your tasks. Embracing help isn't a sign of weakness; it's a smart strategy for success in the collaborative world of tech.
+
+---
+

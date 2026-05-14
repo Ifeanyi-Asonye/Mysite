@@ -41,3 +41,5 @@ On this journey called life, do stop sometimes to smell the flowers while you ca
 because you won't be able to, even when your graveside is surrounded by them.
 
 ## Live, laugh, and love life.
+
+---
