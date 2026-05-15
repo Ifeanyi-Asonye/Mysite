@@ -3,6 +3,8 @@ hide:
   - toc
 ---
 
+![Principal](assets/Principal2.jpeg)
+
 # **About Me**
 
 Hey there! I'm Ifeanyi, and I've got a pretty interesting journey that's taken me from retail shelves to server rooms.
