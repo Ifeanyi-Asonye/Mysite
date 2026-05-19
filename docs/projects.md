@@ -27,9 +27,8 @@
 ---
 
 ### 3. Project 3
-**Description:** 
-**Key Features:**
-**Technologies & Tools:**
-**Links:**
-**Date:**  | **Status:** 
+- *Description:* 
+- *Key Features:*
+- *Technologies & Tools:*
+
 
