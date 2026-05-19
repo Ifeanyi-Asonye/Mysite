@@ -27,5 +27,3 @@
 - *Description:* 
 - *Key Features:*
 - *Technologies & Tools:*
-
-
