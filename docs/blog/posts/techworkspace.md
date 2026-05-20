@@ -3,7 +3,6 @@ date: 2023-09-22
 categories: 
     - Work
 ---
-
 ## Ask for Help
 
 In Nigeria, a popular saying dictates, "If it doesn't make you sweat, then you're most definitely doing it wrongly." This adage often influences how we approach tasks, from schoolwork to careers, subtly discouraging the idea of seeking assistance. The underlying message is that true effort means struggling alone.
