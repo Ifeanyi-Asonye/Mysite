@@ -114,10 +114,6 @@ This is a case where one of the couple is not a Nigerian citizen. The requiremen
 
 Visit https://candb.interior.gov.ng/marriage/  and then sign up. 
 
-![image.png](attachment:32d4a2a2-ba5c-4d31-bf64-afba83e476f2:image.png)
-
-![Screenshot 2025-11-12 192522.png](attachment:d4fb2a10-b8ae-42c7-8b17-a723e495bc74:Screenshot_2025-11-12_192522.png)
-
 Once you select the appropriate marriage type, click on the application from the portal's side panel, read through the instructions, and upload all required documents (it helps to have all documents properly labeled and organized in a particular folder for easy access).
 
 The last stage of the application is payment. This is generally made easy with the provision of payment gateways; make sure to download or screenshot the payment confirmation page just in case.
