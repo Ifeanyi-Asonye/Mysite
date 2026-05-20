@@ -1,7 +1,7 @@
 ---
-date: 2024-01-31
+date: 2025-03-10
 categories: 
-    - Poetry
+    - Art Forms
 ---
 
 # Life's Essence

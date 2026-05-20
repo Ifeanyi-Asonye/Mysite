@@ -1,7 +1,7 @@
 ---
-date: 2024-01-31
+date: 2025-10-25
 categories: 
-    - others
+    - How-To
 ---
 # Getting Married in Nigeria
 

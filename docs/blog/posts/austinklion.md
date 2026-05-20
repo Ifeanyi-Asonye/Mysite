@@ -1,11 +1,12 @@
 ---
-date: 2024-01-31
+date: 2025-07-26
 categories: 
-    - others
+    - Book Review
 ---
 
-# Show Your Work by Austin K. 
+# Show Your Work by Austin Kleon.
 
+![AustinKleon](https://share.google/1sRiLEQScEmOO5pxU)
 > *For artists, the greatest problem to solve is how to get oneself noticed - Honore’ De balzac*
 
 “Creativity is not a talent. It is a way of operating.” —John Cleese
@@ -16,7 +17,7 @@ Imagine if your next boss didn’t have to read your resume because he already r
 
 This was condensed into 10 ideas, or as he called them, “ways to share your creativity and get discovered.” 
 
-1. **You Don’t Need to Be a Genius**
+1.**You Don’t Need to Be a Genius**
 Forget the myth of the lone genius. Creativity thrives in collaboration and transparency. Share what you know, and learn from others.
 here we are introduced to three ideas 
 
@@ -29,7 +30,7 @@ here we are introduced to three ideas
 - Read the obituaries: Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life. Because almost everything—all external expectations, all pride, all fear of embarrassment or failure—these things just fall away in the face of death, leaving only what is truly important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked.”
 —Steve Jobs
 
-2. **Focus on the Process, not the outcome**
+2.**Focus on the Process, not the outcome**
 Instead of waiting for polished results, let people in on your journey. Allow yourself to be seen - really seen The steps you take are often as valuable as the outcome.
 
 > *“A lot of people are so used to just seeing the outcome of work. They never
@@ -37,7 +38,7 @@ see the side of the work you go through to produce the outcome.”
 —Michael Jackson*
 > 
 
-3. **The Power of Daily Shares (sharing something small everyday)**
+3.**The Power of Daily Shares (sharing something small everyday)**
 Small, regular contributions—an idea, a draft, a reflection—can build trust and momentum over time. Make no mistake, this is not your diary, so you have to be intentional with every word. Be open, share imperfect and unfinished work that you want feedback on, but don’t share absolutely everything. There’s a big, big difference between sharing and over-sharing
 
 > *“Put yourself, and your work, out there every day, and you’ll start meeting
@@ -46,7 +47,7 @@ some amazing people.” —Bobby Solomon*
 
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7fb0a960-e87c-4184-84cc-244ad35693dd/8dfdbe2f-2999-4ea0-b34e-0546e8e0e8e3/image.png)
 
-4. **Share Your Inspirations (be curious)**
+4.**Share Your Inspirations (be curious)**
 Openly share the sources that spark your creativity. This helps others understand your perspective and invites connection. When you share your taste and your influences, have the guts to own all of it.
 
 > *“The problem with hoarding is you end up living off your reserves.
@@ -57,7 +58,7 @@ Somehow the more you give away, the more comes back to you.” —Paul Arden*
 
 What if you want to share something and you don’t know where it came from or who made it? The answer: Don’t share things you can’t properly credit. Find the right credit, or don’t share.
 
-5. **Tell Your Story (Good stories i.e)**
+5.**Tell Your Story (Good stories i.e)**
 
 > *“You got to make your case.”
 —Kanye West*
@@ -73,7 +74,7 @@ them.
 > 
 
 
-6. **Teach as You Learn**
+6.**Teach as You Learn**
 Teaching isn’t about having all the answers—it’s about sharing what you know in a way that helps others grow.
 
 > *“The impulse to keep to yourself what you have learned is not only
@@ -114,7 +115,7 @@ about what the RIGHT people think of you.”
 —Brian Michael Bendis*
 > 
 
-9. **Embrace Value Exchange**
+9.**Embrace Value Exchange**
 Monetizing your work isn’t selling out—it’s creating a fair exchange. If your work adds value, people will support it.
 
 
@@ -125,7 +126,7 @@ Whether you ask for donations, crowdfund, or sell your products or services, ask
 Here my favorite part, paying it forward. When you have success, it’s important to use any dough, clout, or platform you’ve acquired to help along the work of the people who’ve helped you get to
 where you are. Extol your teachers, your mentors, your heroes, your influences, your peers, and your fans. Give them a chance to share their own work. Throw opportunities their way.
 
-10. **Play the Long Game (stick around)**
+10.**Play the Long Game (stick around)**
 Sustained effort matters more than overnight success. Keep creating, sharing, and refining your craft.
 
 > *“Work is never finished, only abandoned.”
