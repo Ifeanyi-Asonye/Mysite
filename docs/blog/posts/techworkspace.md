@@ -20,4 +20,3 @@ This message is for YOU, especially you who was taught to toil in silence rather
 The more you ask (without turning it into a substitute for critical thinking), the better and faster you'll become at accomplishing your tasks. Embracing help isn't a sign of weakness; it's a smart strategy for success in the collaborative world of tech.
 
 ---
-

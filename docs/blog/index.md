@@ -12,5 +12,3 @@ Here, I write about work because work shapes how we spend our days. I write abou
 If something here helps you feel less alone in your own process, then this blog is doing its job.
 
 ---
-
-
