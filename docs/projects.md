@@ -2,6 +2,7 @@
 # Projects
 
 ---
+I've been alittle lazy about populating this, its just scattared all over the place. I'll sort it soon. 
 
 ### 1. Containerization of a Two Tier Application 
 - *Description:* 
@@ -20,7 +21,7 @@
 
 ---
 
-### 3. Project 3
+### 3. Full Production Grade Server Set-Up (From open box to server rack)
 - *Description:* 
 - *Key Features:*
 - *Technologies & Tools:*
