@@ -34,6 +34,7 @@ theme:
     - navigation.path
     - navigation.footer
     - navigation.expand
+    - navigation.sections
     - toc.integrate
     - toc.follow
     - content.code.copy
@@ -59,11 +60,10 @@ plugins:
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Projects: projects.md
+  - Reports: reports.md
   - Blog: 
     - blog/index.md
-
+  - About/Contact: about.md
 
 
 markdown_extensions:

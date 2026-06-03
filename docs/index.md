@@ -3,30 +3,25 @@ hide:
   - toc
 ---
 
-## **Ifeanyi A. -  Sysadmin & Support Engineer**
+## **Systems Administrator | Technical Support Engineer**
 [:material-linkedin: LinkedIn](https://www.linkedin.com/in/ifeany-asonye) · [:material-email: Contact](mailto:asonyejude@gmail.com)
 
 ---
-
-I’m the person you call when things break, and the one working behind the scenes to make sure they don’t. Over the 𝗹𝗮𝘀𝘁 𝘆𝗲𝗮𝗿𝘀, I’ve navigated everything from small retail business tech support to enterprise-level helpdesks and system administration to complex server and user environments.
-
-As a 𝗦𝘆𝘀𝗔𝗱𝗺𝗶𝗻 𝗮𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 for 3 years now, I’ve learned that great IT is about more than just uptime; it’s about making sure technology actually makes sense for the people using it. I enjoy the puzzle of a deep-system dive just as much as I enjoy translating a complex technical fix into plain English. Whether I’m stabilizing infrastructure or untangling a tricky support ticket, my goal is always the same: keep the systems running fast and the users feeling supported.
-
----
-
-- **Foundations** --- Retail Support & Customer Experience 
-- **Growth** --- IT Helpdesk | System Administration & Support Engineering
+I help organisations and businesses keep their IT systems running smoothly by managing servers, networks, user support, and critical business applications. My focus is simple: maintain reliable infrastructure, resolve issues quickly, and prevent problems before they impact users.
 
 ---
 
 ### **𝗪𝗵𝗮𝘁 𝗜 𝗯𝗿𝗶𝗻𝗴:**
-- A calm head when things get technical.
-- An obsession with fixing the root cause, not just the symptom.
-- A belief that "IT should be a bridge, not a bottleneck".
+I bring experience in:
+
+- Managing and supporting 8+ physical servers and over 40 virtual machines across VMware, Hyper-V, Proxmox and Linux environments.
+- Administering Active Directory and Microsoft Entra ID for over 200 users, including user provisioning, access management, policy administration, assest management and deployment.
+- Supporting business-critical application such as sage ERP, SQL Server-based systems.
+- Maintain office networks, VPN connectivity, firewalls, and security controls across multi-site environments.
 
 ---
 
-### **𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹:**
+### **Stack/Skills**
 1. 𝗢𝗦: Windows, Windows Server, Linux
 2. 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲: Dell/HP Servers, Dell/HP/Lenovo, AlienWare workstations,  Cisco devices, Synology.
 3. 𝗧𝗲𝗰𝗵: Active Directory, IAM,  Office 365, Virtualization (VMware/Hyper-V, VMware, Proxmox)
@@ -34,9 +29,4 @@ As a 𝗦𝘆𝘀𝗔𝗱𝗺𝗶𝗻 𝗮𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 
 5. 𝗢𝘁𝗵𝗲𝗿𝘀: Git, Bash, Incident management, RCA, DR, Documentation
 
 ---
-[View projects here --->](projects.md)
-
-
-<p align="center">
-  <small>Built with Material for MkDocs</small>
-</p>
+[View cases and incident reports here --->](reports.md)
