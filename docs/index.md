@@ -21,7 +21,7 @@ I bring experience in:
 ---
 ## Technical Skills & Tools
 
-| Category | Core Expertise & Technologies |
+| Category |  Technologies |
 | :--- | :--- |
 | **Operating Systems & Virtualization** | Windows Server, Linux, VMware ESXi, Hyper-V, Proxmox |
 | **Enterprise Infrastructure & Identity** | Active Directory, IAM (Identity & Access Management), Office 365 |
