@@ -19,24 +19,16 @@ I bring experience in:
 - Maintained office networks, VPN connectivity, firewalls, and security controls across multi-site environments.
 
 ---
+## Technical Skills & Tools
 
-## Technical Skills & Tooling
-
-| Functional Area | Core Technologies & Frameworks |
+| Category | Core Expertise & Technologies |
 | :--- | :--- |
-| **Infrastructure & Systems** | Linux (Ubuntu/RHEL), Windows Server, Active Directory, VMware ESXi |
-| **Backup & Business Continuity** | Acronis Cyber Protect, Dell EMC, Synology NAS, Disaster Recovery Testing |
-| **Automation & Monitoring** | Custom Server Health Scripting, Network Reachability Tools |
-| **Technical Support Operations** | ITIL Framework, Tier 1-3 Troubleshooting, Service Desk/SLA Management |
-
-
-
-### **Stack/Skills**
-1. 𝗢𝗦: Windows, Windows Server, Linux
-2. 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲: Dell/HP Servers, Dell/HP/Lenovo, AlienWare workstations,  Cisco devices, Synology.
-3. 𝗧𝗲𝗰𝗵: Active Directory, IAM,  Office 365, Virtualization (VMware/Hyper-V, VMware, Proxmox)
-4. 𝗖𝗼𝗻𝘁𝗮𝗶𝗻𝗲𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻 & 𝗖𝗹𝗼𝘂𝗱: Docker, Podman, AWS, Azure
-5. 𝗢𝘁𝗵𝗲𝗿𝘀: Git, Bash, Incident management, RCA, DR, Documentation
+| **Operating Systems & Virtualization** | Windows Server, Linux, VMware ESXi, Hyper-V, Proxmox |
+| **Enterprise Infrastructure & Identity** | Active Directory, IAM (Identity & Access Management), Office 365 |
+| **Cloud & Containerization** | AWS, Azure, Docker, Podman |
+| **Hardware & Storage Engineering** | Dell/HP Enterprise Servers, Synology NAS, Cisco Network Devices |
+| **IT Ops & Dependability** | Incident Management, Root Cause Analysis (RCA), Disaster Recovery (DR) |
+| **Automation & Tooling** | Bash Scripting, Git Version Control, Technical Documentation |
 
 ---
 [View cases and incident reports here --->](reports.md)
