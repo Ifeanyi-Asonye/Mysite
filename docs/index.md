@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-## **Systems Administrator | Technical Support Engineer**
+## **System Administrator | Technical Support Engineer**
 [:material-linkedin: LinkedIn](https://www.linkedin.com/in/ifeany-asonye) · [:material-email: Contact](mailto:asonyejude@gmail.com)
 
 ---
@@ -11,13 +11,12 @@ I help organisations and businesses keep their IT systems running smoothly by ma
 
 ---
 
-### **𝗪𝗵𝗮𝘁 𝗜 𝗯𝗿𝗶𝗻𝗴:**
 I bring experience in:
 
 - Managing and supporting 8+ physical servers and over 40 virtual machines across VMware, Hyper-V, Proxmox and Linux environments.
 - Administering Active Directory and Microsoft Entra ID for over 200 users, including user provisioning, access management, policy administration, assest management and deployment.
 - Supporting business-critical application such as sage ERP, SQL Server-based systems.
-- Maintain office networks, VPN connectivity, firewalls, and security controls across multi-site environments.
+- Maintained office networks, VPN connectivity, firewalls, and security controls across multi-site environments.
 
 ---
 
