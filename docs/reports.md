@@ -2,26 +2,19 @@
 # Incident Logs & Case Studies
 
 ---
-I've been alittle lazy about populating this, its just scattared all over the place. I'll sort it soon. 
 
 ### 1. Containerization of a Two Tier Application 
-- *Description:* 
-- *Key Features:*
-- *Technologies & Tools:*
+[Name of the Next Issue or Project]
+
+    What went wrong / What was needed: [Your text here]
+
+    How I investigated it: [Your text here]
+
+    How I fixed it: [Your text here]
+
+    How I stopped it from happening again: [Your text here]
 
 
 ---
 
-### 2. Enterprise Systems Administration & Cloud Support
-- *Description:* 
-- *Key Features:*
 
-- *Technologies & Tools:*
-
-
----
-
-### 3. Full Production Grade Server Set-Up (From open box to server rack)
-- *Description:* 
-- *Key Features:*
-- *Technologies & Tools:*
