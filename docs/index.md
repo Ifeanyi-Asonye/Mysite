@@ -20,6 +20,17 @@ I bring experience in:
 
 ---
 
+## Technical Skills & Tooling
+
+| Functional Area | Core Technologies & Frameworks |
+| :--- | :--- |
+| **Infrastructure & Systems** | Linux (Ubuntu/RHEL), Windows Server, Active Directory, VMware ESXi |
+| **Backup & Business Continuity** | Acronis Cyber Protect, Dell EMC, Synology NAS, Disaster Recovery Testing |
+| **Automation & Monitoring** | Custom Server Health Scripting, Network Reachability Tools |
+| **Technical Support Operations** | ITIL Framework, Tier 1-3 Troubleshooting, Service Desk/SLA Management |
+
+
+
 ### **Stack/Skills**
 1. 𝗢𝗦: Windows, Windows Server, Linux
 2. 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲: Dell/HP Servers, Dell/HP/Lenovo, AlienWare workstations,  Cisco devices, Synology.
