@@ -4,6 +4,7 @@
 I didn't start this blog because I have everything figured out.
 
 Quite the opposite.
+<!-- more -->
 
 Most of what I've learned so far hasn't come from big wins or breakthrough moments. It's come from the quieter things: troubleshooting a problem that nobody else noticed, asking questions when I'd rather pretend I knew the answer, making mistakes, starting over, or trying to make sense of a season of life that felt unfamiliar.
 
