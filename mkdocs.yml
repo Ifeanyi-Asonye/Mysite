@@ -1,4 +1,4 @@
-site_name: Ifeanyi A.  
+site_name: Ifeanyi Asonye.  
 site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -49,7 +49,7 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:<asonyejude@gmail.com>
   generator: false
-copyright: Copyright &copy; 2026 Ifeanyi A. 
+copyright: Copyright &copy; 2026 Ifeanyi Asonye. 
 
 
 
