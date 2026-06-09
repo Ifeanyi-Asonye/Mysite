@@ -7,8 +7,8 @@ categories:
 # SSH into WSL Via Powershell: A Simple Guide
 
 Most times, i feel overwhelmed when i want to learn a new technology. Learning ssh was one i had a bit of difficulty with. Although i learned it the hard way, i mean using EC2 instance and all but i found another way. Bear in mind that this is just the basics, something to get you up to speed quickly and not a substitute for learning with cloud infra. This guide shows you how to connect to your Windows Subsystem for Linux (WSL), a presumed remote instance via SSH from PowerShell. 
-
 <!-- more -->
+
 ### 1. Set Up WSL
 First, ensure WSL is installed on your Windows PC. If it's not, you can install it by opening PowerShell as an administrator and running:
 

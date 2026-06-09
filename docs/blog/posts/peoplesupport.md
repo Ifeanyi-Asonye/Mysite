@@ -7,9 +7,10 @@ categories:
 # Support Roles: It's All About People
 
 After over eight years of helping people,  first in bustling supermarket, now in the world of tech,  I've learned something pretty clear: The most important thing you can do in a support role is **manage the customer**. And I don't mean "manage" like a project; I mean understanding them, guiding them, and helping them feel heard.
+<!-- more -->
 
 Customers, I've found, don't care so much about how you're feeling that day. All they want is their problem fixed. What's fascinating is, over time, you start to see that you can actually influence how those conversations turn out.
-<!-- more -->
+
 
 I remember one day, a customer, bless her heart leaned in and whispered, "See if you can pacify her," pointing to another customer who was really upset. Double-debited, no value. I'd never heard the word "pacify" before, but I got it. Calm her down. Find a way to meet in the middle. And we did. It taught me that people will always lean towards what helps them. So, like playing chess, you have to think a few steps ahead. Imagine what they might ask, what they really need, before you even start talking. This was from my retail days, but honestly, you see it in so many different ways, no matter where you work.
 

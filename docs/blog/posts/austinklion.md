@@ -10,10 +10,11 @@ categories:
 > *For artists, the greatest problem to solve is how to get oneself noticed - Honore’ De balzac*
 
 “Creativity is not a talent. It is a way of operating.” —John Cleese
+<!-- more -->
 
 Imagine if your next boss didn’t have to read your resume because he already read your blog. Imagine being a student and getting your first gig based on a school project you posted online. Imagine losing your job but having a social network of people familiar with your work and ready to help you find a new one. Imagine turning a side project or a hobby into your profession because you had a following that could support you; this is what this book is about. it offers a refreshing take on building an audience and fostering creative connections. It's not about seeking perfection or hiding your process—it's about showing up authentically, consistently, and generously.
 
-<!-- more -->
+
 
 This was condensed into 10 ideas, or as he called them, “ways to share your creativity and get discovered.” 
 
