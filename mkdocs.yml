@@ -49,6 +49,9 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:<asonyejude@gmail.com>
   generator: false
+copyright: Copyright &copy; 2026 Ifeanyi A. All rights reserved.
+
+
 
 plugins:
 - search
@@ -76,3 +79,5 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
+
+
