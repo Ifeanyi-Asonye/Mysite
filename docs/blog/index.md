@@ -4,7 +4,6 @@
 I didn't start this blog because I have everything figured out.
 
 Quite the opposite.
-<!-- more -->
 
 Most of what I've learned so far hasn't come from big wins or breakthrough moments. It's come from the quieter things: troubleshooting a problem that nobody else noticed, asking questions when I'd rather pretend I knew the answer, making mistakes, starting over, or trying to make sense of a season of life that felt unfamiliar.
 
@@ -12,7 +11,7 @@ In technology, and probably in many other fields too, there's a subtle pressure 
 
 This blog is my attempt to slow those moments down and reflect on them.
 
-You'll find things I'm learning about technology, systems, and the work I do every day. You'll also find thoughts on life, faith, growth, and the lessons that don't fit neatly into a technical document.
+You'll find things I'm learning about **technology, systems, and the work I do every day. You'll also find thoughts on life, faith, growth, and the lessons that don't fit neatly into a technical document**.
 
 Because the longer I work and live, the more convinced I become that none of these things exist separately. Our work shapes us. Our beliefs shape how we approach our work. Our relationships affect how we carry responsibility. Growth rarely stays in one lane.
 
