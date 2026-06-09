@@ -5,12 +5,10 @@ categories:
 ---
 
 # Life's Essence
-
+<!-- more -->
 They say life is a fleeting breath, a momentary dance beneath the sun. 
 We are constantly chasing dreams, sprinting through the days, climbing mountains, 
 and crafting legacies, one after another.
-<!-- more -->
-
 But in this race for more, for better, for higher, we forget the silent whispers of the wind, 
 the soft hum of the earth beneath our feet, and the beauty in the pause where it all started.
 Life is not just the goal or the end, not in the trophies or the endless chase. 

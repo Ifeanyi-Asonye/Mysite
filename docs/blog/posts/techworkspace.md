@@ -4,9 +4,8 @@ categories:
     - Work
 ---
 ## Ask for Help
-
-In Nigeria, a popular saying dictates, "If it doesn't make you sweat, then you're most definitely doing it wrongly." This adage often influences how we approach tasks, from schoolwork to careers, subtly discouraging the idea of seeking assistance. The underlying message is that true effort means struggling alone.
 <!-- more -->
+In Nigeria, a popular saying dictates, "If it doesn't make you sweat, then you're most definitely doing it wrongly." This adage often influences how we approach tasks, from schoolwork to careers, subtly discouraging the idea of seeking assistance. The underlying message is that true effort means struggling alone.
 
 However, let's consider the very essence of technology. Technology exists to simplify our lives, making tasks easier and faster. Why spend two days on something that could be done in thirty minutes? The rapid pace of the 21st century demands efficiency, and those who build these time-saving solutions should apply the same principles to their own work.
 
