@@ -19,16 +19,14 @@ I bring experience in:
 - Maintained office networks, VPN connectivity, firewalls, and security controls across multi-site environments.
 
 ---
-## Technical Skills & Tools
 
-| Category |  Technologies |
-| :--- | :--- |
-| **Operating Systems & Virtualization** | Windows Server, Linux, VMware ESXi, Hyper-V, Proxmox |
-| **Enterprise Infrastructure & Identity** | Active Directory, IAM (Identity & Access Management), Office 365 |
-| **Cloud & Containerization** | AWS, Azure, Docker, Podman |
-| **Hardware & Storage Engineering** | Dell/HP Enterprise Servers, Synology NAS, Cisco Network Devices |
-| **IT Ops & Dependability** | Incident Management, Root Cause Analysis (RCA), Disaster Recovery (DR) |
-| **Automation & Tooling** | Bash Scripting, Git Version Control, Technical Documentation |
+## 🛠️ Skills & Technologies
+
+*   **Systems & Virtualization:** Windows Server, Linux, VMware, Hyper-V, and Proxmox.
+*   **Identity & Cloud:** Active Directory, IAM, Office 365, AWS, and Azure.
+*   **Containers & Tooling:** Docker, Podman, Bash scripting, and Git.
+*   **Hardware & Infrastructure:** Dell/HP enterprise servers, Cisco devices, and Synology storage arrays.
+*   **IT Operations:** Incident Management, Root Cause Analysis (RCA), Disaster Recovery (DR), and technical documentation.
 
 ---
 [View cases and incident reports here --->](reports.md)

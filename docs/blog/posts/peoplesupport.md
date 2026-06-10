@@ -1,5 +1,7 @@
 ---
 date: 2025-06-16
+authors:
+  - ifeanyi
 categories: 
     - Work
 ---
