@@ -29,6 +29,7 @@ I bring experience in:
 *   **Hardware & Infrastructure:** Dell/HP enterprise servers, Cisco devices, and Synology storage arrays.
 *   **ITAM:** Snipe-IT, GLPI.
 *   **IT Operations:** Incident Management, Root Cause Analysis (RCA), Disaster Recovery (DR), and technical documentation.
+*   **Ticketing & User Support:** Spiceworks, ManageEngine, Zohodesk, Anydesk, Microsoft Teams, Teamviewer.
 
 ---
 [View cases and incident reports here --->](reports.md)
