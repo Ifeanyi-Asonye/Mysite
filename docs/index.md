@@ -20,12 +20,14 @@ I bring experience in:
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 *   **Systems & Virtualization:** Windows Server, Linux, VMware, Hyper-V, and Proxmox.
-*   **Identity & Cloud:** Active Directory, IAM, Office 365, AWS, and Azure.
+*   **Identity & Cloud:** Active Directory, IAM, Office 365, Google Workspace, AWS, and Azure.
 *   **Containers & Tooling:** Docker, Podman, Bash scripting, and Git.
+*   **Databases:** SQL, Postgres.
 *   **Hardware & Infrastructure:** Dell/HP enterprise servers, Cisco devices, and Synology storage arrays.
+*   **ITAM:** Snipe-IT, GLPI.
 *   **IT Operations:** Incident Management, Root Cause Analysis (RCA), Disaster Recovery (DR), and technical documentation.
 
 ---
