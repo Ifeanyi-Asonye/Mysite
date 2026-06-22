@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-## **System Administrator | Technical Support Engineer**
+## **SysAdmin | Technical/Application Support**
 [:material-linkedin: LinkedIn](https://www.linkedin.com/in/ifeany-asonye) · [:material-email: Contact](mailto:asonyejude@gmail.com)
 
 ---
