@@ -68,6 +68,6 @@ ssh ifeanyi@172.20.10.40
 The first time you connect, you may be asked to confirm the authenticity of the host. Type `yes` and press Enter. You will then be prompted to enter your WSL user's password.
 
 And you are in!!!
-Congratulations, tech bro or sis, you are now in the top percent of cloud engineers. 
+Congratulations, tech bro or sis, you are now in the top percent of cloud engineers.
 
-There's another layer where you can create an ssh key and all, but that's beyound this guide. 
+There's another layer where you can create an ssh key and all, but that's beyound this guide.

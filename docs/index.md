@@ -23,6 +23,7 @@ I bring experience in:
 ## Skills & Technologies
 
 *   **Systems & Virtualization:** Windows Server, Linux, VMware, Hyper-V, and Proxmox.
+*   **Networking:** TCP/IP, DNS, DHCP, VPN, routing, NAT, subnetting, load balancing, SSL/TLS, and firewall rules
 *   **Identity & Cloud:** Active Directory, IAM, Office 365, Google Workspace, AWS, and Azure.
 *   **Containers & Tooling:** Docker, Podman, Bash scripting, and Git.
 *   **Databases:** SQL, Postgres.
