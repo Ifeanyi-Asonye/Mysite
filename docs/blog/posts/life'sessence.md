@@ -1,7 +1,7 @@
 ---
 date: 2025-03-10
 authors:
-  - Ifeanyi
+  - ifeanyi
 categories: 
     - Art Forms
 ---

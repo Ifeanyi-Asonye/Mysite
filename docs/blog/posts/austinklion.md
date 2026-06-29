@@ -1,5 +1,7 @@
 ---
 date: 2025-07-26
+authors:
+  - ifeanyi
 categories: 
     - Book Review
 ---
