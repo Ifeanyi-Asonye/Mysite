@@ -1,10 +1,10 @@
-[TOC]
 ---
 date: 2025-06-16
 authors:
   - ifeanyi
 categories: 
     - Work
+[TOC]
 ---
 
 # Support Roles: It's All About People
