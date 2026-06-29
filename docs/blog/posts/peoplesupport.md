@@ -4,7 +4,8 @@ authors:
   - ifeanyi
 categories: 
     - Work
-[TOC]
+show:
+  - toc
 ---
 
 # Support Roles: It's All About People
