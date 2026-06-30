@@ -3,7 +3,7 @@
 
 ---
 
-### Building a vSphere 8 Lab on a 16GB Laptop
+### 1. Building a vSphere 8 Lab on a 16GB Laptop
 
 ***The Goal***
 
@@ -41,7 +41,7 @@ When I upgrade my RAM or add a small mini-PC, the very first thing I’m doing i
 ---
 
 
-### Containerizing a Two-Tier App (WordPress + MariaDB) with Podman
+### 2. Containerizing a Two-Tier App (WordPress + MariaDB) with Podman
 
 ***The Goal***
 
