@@ -32,5 +32,5 @@ Feel free to reach out anytime — I genuinely enjoy connecting with people!
 
 **Favourite quotes:**
 
-- ***Learning never ends*** 
-- ***Less is always more*** 
+- *Learning never ends*
+- *Less is always more* 
