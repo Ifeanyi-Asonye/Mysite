@@ -7,20 +7,28 @@ hide:
 
 # **About Me**
 
-Hey there! I'm Ifeanyi, and I've got a pretty interesting journey that has taken me from retail shelves to server rooms.
+Welcome to my corner of the internet. 
+As you've already seen, my name is Ifeanyi, and I've got a pretty interesting life and career journey that has taken me different places to do different things.
 
-I spent 6 years in retail, working my way up from shelf attendant, Inventory officer, store keeper, customer support to Retail Associate. But here's the thing, I was always the person my family, colleagues and friends call when something went wrong with the computers, or smart devices. Prior to my retail work, i had a diploma in computer science. I can't count how many devices i condemned out of curiosity, lol. Drawn to this passion, I went back to school and got my degree in Computer Science.
+Before all you see now, I spent six years in retail. I did a bit of everything: stocking shelves, managing inventory, keeping store records, and handling customer support, and guess what, i was also earning my degree in computer science. It was tough sha, but i learned the act of balancing. Although i had abit of background training in computer repairs and a diploma in computer science, you'll finding trying to learn, fix or solve a gatget or computer problem for my neighbours, family member or at a friends house. Most times, it doesn't end well but i liked the challenge.
 
-Fastforward after graduation, got an internship with an educational organization where I started as an IT Helpdesk on contract, then Technical support. Within a few months, I got a full-time role as a system administrator and I've been thriving there for the past 3 years.
+After graduation from the degree program, i got an internship with an educational organization where I started as an IT Helpdesk on contract, then Technical support. Within a few months in thesame organization, I got a full-time role as a system administrator and I've been thriving there for the past 3 years.
 
-So whether you're wondering if I switched careers or just want to talk about what the journey has been so far, I'm here for it. It's nothing linear i promise you.  
-All told, I've got atleast 9 years of work experience (retail and IT combined), and I'm still learning something new every day.
+I like tinkering during my spare time and my personal computer can testify. I might seem a bit old school in how i most times prefer hard copies of reading materials, and how i speak. 
 
-## Get in Touch
+I can confidently say i've got nine years of work experinces between customer-facing ratail and IT Operations. These experiences have influenced and shaped my communication. As i grow, i have come to understand that solutions to problems are best approached from the users perspective and not the tech.   
 
-Got a question? Want to give me a Job? Point me to a growth oppurtunity? Please send me a message.
+I can go on and on but that would leave nothing to verbal conversation, init? 
+
+## So here,
+
+Want to continue the convo, have a question? Want to give me a Job? Point me to a growth oppurtunity? Please send me a message.
 
 - **Email:** [asonyejude@gmail.com](mailto:asonyejude@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ifeanyi-asonye](https://www.linkedin.com/in/ifeany-asonye)
 
 Feel free to reach out anytime — I genuinely enjoy connecting with people!
+
+Favourite quotes: 
+- ***Learning never ends***
+- ***Less is always more***
