@@ -93,7 +93,6 @@ Podman has a killer feature: podman generate kube. My next move is to use it to 
 ---
 
 
-
 ### Building a Production-Ready Wazuh SIEM Platform with Docker
 **The Project**
 
@@ -154,4 +153,6 @@ More importantly, this project strengthened my understanding of Docker Compose, 
 
 It also reinforced a lesson I apply to every infrastructure project: effective troubleshooting starts with understanding how the system is supposed to work, then validating each component methodically until the root cause is found.
 
+
+---
 
