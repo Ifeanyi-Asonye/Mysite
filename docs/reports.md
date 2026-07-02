@@ -92,7 +92,6 @@ Podman has a killer feature: podman generate kube. My next move is to use it to 
 
 ---
 
-
 ### 3. Building a Production-Ready Wazuh SIEM Platform with Docker
 **The Project**
 
