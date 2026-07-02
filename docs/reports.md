@@ -93,7 +93,7 @@ Podman has a killer feature: podman generate kube. My next move is to use it to 
 ---
 
 
-### Building a Production-Ready Wazuh SIEM Platform with Docker
+### 3. Building a Production-Ready Wazuh SIEM Platform with Docker
 **The Project**
 
 I deployed a complete Wazuh Security Information and Event Management (SIEM) platform on a Linux server using Docker Compose. The deployment consisted of Wazuh Manager, Wazuh Indexer (OpenSearch), and Wazuh Dashboard, with persistent storage and TLS-secured communication between all services.
