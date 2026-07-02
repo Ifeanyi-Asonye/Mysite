@@ -92,5 +92,64 @@ Podman has a killer feature: podman generate kube. My next move is to use it to 
 
 ---
 
+### Building a Production-Ready Wazuh SIEM Platform with Docker
+**The Project**
+
+I deployed a complete Wazuh Security Information and Event Management (SIEM) platform on a Linux server using Docker Compose. The deployment consisted of Wazuh Manager, Wazuh Indexer (OpenSearch), and Wazuh Dashboard, with persistent storage and TLS-secured communication between all services.
+
+The objective was not simply to get Wazuh running, but to build a deployment that followed production best practices by externalizing configuration, securing inter-service communication, and making the environment easy to maintain and reproduce.
+
+**Why I Took on the Project**
+
+As a Systems Administrator, I wanted practical experience with modern security monitoring and log management platforms.
+
+Many organizations rely on SIEM solutions to detect threats, monitor endpoints, and centralize security events. Rather than learning Wazuh theoretically, I wanted to understand how each component interacts—from agent communication and log collection to indexing and visualization.
+
+I also saw this as an opportunity to strengthen my Docker skills by deploying and managing a real-world multi-container application instead of a simple proof-of-concept container.
+
+## Challenges I Faced
+**Separating Secrets from Configuration**
+
+The default deployment stored credentials directly inside the docker-compose.yml file. While functional, I considered this poor practice for a deployment that might eventually be version controlled or reused across environments.
+
+I refactored the deployment by moving all sensitive configuration into a dedicated .env file and updated the Compose file to reference environment variables instead. This made the deployment cleaner, easier to maintain, and more aligned with production standards.
+
+**Docker Compose Validation Errors**
+
+After modifying the Compose file, Docker refused to deploy the stack due to a validation error involving the volume definitions.
+
+Rather than assuming there was an issue with Docker itself, I reviewed the YAML structure and discovered an indentation mistake that caused one volume to be interpreted as a property of another.
+
+Correcting the YAML formatting resolved the issue and reinforced how important syntax validation is when working with Infrastructure as Code.
+
+**Missing Alert Indices**
+
+Although the Dashboard was accessible, it reported that the wazuh-alerts-* index pattern could not be found.
+
+Instead of focusing on the Dashboard, I traced the entire data pipeline from the Wazuh Manager through Filebeat to the Indexer. This led me to discover that alert data was never reaching the Indexer.
+
+**Filebeat Authentication Failure**
+
+Using Filebeat's built-in connectivity test, I identified a 401 Unauthorized response when attempting to connect to the Wazuh Indexer.
+
+This narrowed the problem down to authentication rather than networking or TLS. Further investigation revealed that the manager container was still using outdated credentials because the containers had not been recreated after updating the .env file.
+
+After recreating the containers with the updated environment variables, Filebeat authenticated successfully and the missing alert indices were created automatically.
+
+**Understanding Wazuh's Network Architecture**
+
+While preparing to deploy agents, I initially assumed that they communicated directly with the Dashboard because that was the interface I was interacting with.
+
+Through the deployment process, I learned that the Dashboard is purely an administrative interface. Agents actually enroll and communicate directly with the Wazuh Manager using ports 1515 and 1514, while the Dashboard communicates with the Manager through the API.
+
+Understanding this communication flow gave me a much clearer picture of the overall architecture and made configuring remote agents significantly easier.
+
+**Outcome**
+
+The completed deployment provides a fully functional, containerized Wazuh environment capable of collecting endpoint telemetry, indexing security events, and visualizing alerts through the Dashboard.
+
+More importantly, this project strengthened my understanding of Docker Compose, Linux networking, TLS-secured services, authentication troubleshooting, and the internal architecture of an enterprise SIEM platform.
+
+It also reinforced a lesson I apply to every infrastructure project: effective troubleshooting starts with understanding how the system is supposed to work, then validating each component methodically until the root cause is found.
 
 
