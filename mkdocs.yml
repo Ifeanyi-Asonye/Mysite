@@ -65,10 +65,11 @@ plugins:
 
 nav:
   - Home: index.md
-  - Reports: reports.md
+  - Logs: logs.md
+  - About: about.md
   - Blog: 
     - blog/index.md
-  - About/Contact: about.md
+  
 
 
 markdown_extensions:
