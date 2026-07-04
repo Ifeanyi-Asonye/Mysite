@@ -4,9 +4,9 @@
 *These are projects, incidents, troubleshooting and case studies i have encountered and still encountering..lol.*
 
 
-## Project 1: Building a VMware vSphere 8.0 Home Lab
+## Log 1: Building a VMware vSphere 8.0 Home Lab
 
-**The Project**
+**Description**
 
 I built a virtual data center environment from scratch using **VMware vSphere 8.0** to get hands-on experience with enterprise virtualization.
 
@@ -32,9 +32,9 @@ I wanted to master the actual installation, configuration, and management workfl
 ---
 
 
-## Project 2: Containerizing WordPress and MariaDB with Podman
+## Log 2: Containerizing WordPress and MariaDB with Podman
 
-**The Project**
+**Description**
 
 I deployed a classic two-tier web application—a **WordPress** frontend connected to a **MariaDB** database backend—using **Podman**.
 
@@ -58,9 +58,9 @@ I wanted to move away from heavy virtual machines and learn lightweight containe
 ---
 
 
-## Project 3: Deploying Snipe-IT Asset Management via Docker
+## Log 3: Deploying Snipe-IT Asset Management via Docker
 
-**The Project**
+**Description**
 
 I migrated our IT asset management system, **Snipe-IT**, out of a traditional, resource-heavy Virtual Machine and deployed it as a two-tier containerized application (App frontend + MariaDB backend) using Docker.
 
@@ -86,7 +86,7 @@ ________
 
 ## Project 4: Deploying Wazuh SIEM for Security Monitoring (In progress)
 
-**The Project**
+**Description**
 
 I deployed **Wazuh**, an enterprise-grade Security Information and Event Management (SIEM) and XDR platform, using Docker Compose on our on-prem Linux infrastructure.
 
