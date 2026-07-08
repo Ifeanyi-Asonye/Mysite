@@ -33,4 +33,4 @@ I bring experience in:
 *   **Ticketing & User Support:** Spiceworks, ManageEngine, Zohodesk, Anydesk, Microsoft Teams, Teamviewer.
 
 ---
-[View cases and incident reports here --->](reports.md)
+[See how i got experience here --->](logs.md)
