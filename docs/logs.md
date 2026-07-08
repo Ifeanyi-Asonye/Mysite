@@ -84,7 +84,7 @@ Our on-prem infrastructure was bogged down by heavy standalone VMs. I took this 
 ________
 
 
-## Project 4: Deploying Wazuh SIEM for Security Monitoring (In progress)
+## Log 4: Deploying Wazuh SIEM for Security Monitoring (In progress)
 
 **Description**
 
