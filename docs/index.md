@@ -8,19 +8,19 @@ hide:
 
 ---
 
-I help organisations keep their IT systems running smoothly — managing servers, networks, user support, and business-critical applications. My focus: reliable infrastructure, fast issue resolution, and preventing problems before they hit users.
+I help organisations keep their IT systems running smoothly, managing servers, networks, user support, and business-critical applications. My focus: reliable infrastructure, fast issue resolution, and preventing problems before they hit users.
 
 ---
 
-## Recent hands-on work (full write-ups in [Logs](logs.md))
+### Recent hands-on work ( full write-ups in [Logs](logs.md) )
 
-1. Migrated Snipe-IT asset management from a resource-heavy VM to a two-tier Docker Compose deployment, cutting server memory footprint and simplifying backups.
-2. Deployed Wazuh SIEM for centralized security monitoring and log analysis across on-prem Linux infrastructure.
+1. Migrated Snipe-IT, an open source asset management system from a resource-heavy VM to a two-tier Docker Compose deployment, cutting server memory footprint and simplifying backups.
+2. Deployed Wazuh SIEM for centralized security monitoring and log analysis across on-prem windows and Linux infrastructure.
 3. Built a nested VMware vSphere 8.0 home lab to master ESXi/vCenter workflows hands-on, working within tight hardware constraints.
 4. Containerized WordPress + MariaDB with Podman, troubleshooting container networking and encryption key persistence.
 
 ---
-## Core experience
+### Core experience
 
 - Managing and supporting 8+ physical servers and 40+ VMs across VMware, Hyper-V, Proxmox, and Linux.
 
@@ -32,7 +32,7 @@ I help organisations keep their IT systems running smoothly — managing servers
 
 ---
 
-## Skills & Technologies
+### Skills & Technologies
 
 *   **Systems & Virtualization:** Windows Server, Linux, VMware, Hyper-V, and Proxmox.
 *   **Networking:** TCP/IP, DNS, DHCP, VPN, routing, NAT, subnetting, load balancing, SSL/TLS, and firewall rules

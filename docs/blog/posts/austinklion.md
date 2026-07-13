@@ -49,8 +49,6 @@ Small, regular contributions—an idea, a draft, a reflection—can build trust 
 some amazing people.” —Bobby Solomon*
 > 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7fb0a960-e87c-4184-84cc-244ad35693dd/8dfdbe2f-2999-4ea0-b34e-0546e8e0e8e3/image.png)
-
 4.**Share Your Inspirations (be curious)**
 Openly share the sources that spark your creativity. This helps others understand your perspective and invites connection. When you share your taste and your influences, have the guts to own all of it.
 
@@ -87,9 +85,8 @@ becomes lost to you. You open your safe and find ashes.”
 —Annie Dillard*
 > 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7fb0a960-e87c-4184-84cc-244ad35693dd/45860c83-7ea4-42a9-bcd0-fb829e741877/image.png)
 
-7. **Build Relationships, Not Spam**
+1. **Build Relationships, Not Spam**
 Promotion isn’t about shouting into the void. Engage authentically, show interest in others, and the right connections will follow.
 
 > *“When people realize they’re being listened to, they tell you things.”

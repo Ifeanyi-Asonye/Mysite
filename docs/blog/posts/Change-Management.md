@@ -6,6 +6,5 @@ categories:
     - How-To
 ---
 
-One lesson i learned from the Pheonix Project by 
 
 

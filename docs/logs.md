@@ -4,7 +4,7 @@
 *These are projects, incidents, troubleshooting and case studies i have encountered and still encountering..lol.*
 
 
-## Log 1: Building a VMware vSphere 8.0 Home Lab
+### Log 1: Building a VMware vSphere 8.0 Home Lab
 
 **Description**
 
@@ -32,7 +32,7 @@ I wanted to master the actual installation, configuration, and management workfl
 ---
 
 
-## Log 2: Containerizing WordPress and MariaDB with Podman
+### Log 2: Containerizing WordPress and MariaDB with Podman
 
 **Description**
 
@@ -58,7 +58,7 @@ I wanted to move away from heavy virtual machines and learn lightweight containe
 ---
 
 
-## Log 3: Deploying Snipe-IT Asset Management via Docker
+### Log 3: Deploying Snipe-IT Asset Management via Docker
 
 **Description**
 
