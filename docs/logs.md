@@ -1,4 +1,4 @@
-# Logs (Periodically updated)
+# Logs (Realtime)
  
 ---
 *These are projects, incidents, troubleshooting and case studies i have encountered and still encountering..lol.*

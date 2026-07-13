@@ -3,20 +3,32 @@ hide:
   - toc
 ---
 
-## **SysAdmin | Technical/Application Support**
+## **System Administrator | Technical/Application Support**
 [:material-linkedin: LinkedIn](https://www.linkedin.com/in/ifeany-asonye) · [:material-email: Contact](mailto:asonyejude@gmail.com)
 
 ---
-I help organisations and businesses keep their IT systems running smoothly by managing servers, networks, user support, and critical business applications. My focus is simple: maintain reliable infrastructure, resolve issues quickly, and prevent problems before they impact users.
+
+I help organisations keep their IT systems running smoothly — managing servers, networks, user support, and business-critical applications. My focus: reliable infrastructure, fast issue resolution, and preventing problems before they hit users.
 
 ---
 
-I bring experience in:
+## Recent hands-on work (full write-ups in [Logs](logs.md))
 
-- Managing and supporting 8+ physical servers and over 40 virtual machines across VMware, Hyper-V, Proxmox and Linux environments.
-- Administering Active Directory and Microsoft Entra ID for over 200 users, including user provisioning, access management, policy administration, assest management and deployment.
-- Supporting business-critical application such as sage ERP, SQL Server-based systems.
-- Maintained office networks, VPN connectivity, firewalls, and security controls across multi-site environments.
+1. Migrated Snipe-IT asset management from a resource-heavy VM to a two-tier Docker Compose deployment, cutting server memory footprint and simplifying backups.
+2. Deployed Wazuh SIEM for centralized security monitoring and log analysis across on-prem Linux infrastructure.
+3. Built a nested VMware vSphere 8.0 home lab to master ESXi/vCenter workflows hands-on, working within tight hardware constraints.
+4. Containerized WordPress + MariaDB with Podman, troubleshooting container networking and encryption key persistence.
+
+---
+## Core experience
+
+- Managing and supporting 8+ physical servers and 40+ VMs across VMware, Hyper-V, Proxmox, and Linux.
+
+- Administering Active Directory and Microsoft Entra ID for 200+ users — provisioning, access management, policy administration, and asset management.
+  
+- Supporting business-critical applications including Sage ERP and SQL Server-based systems.
+
+- Maintaining office networks, VPN connectivity, firewalls, and security controls across multi-site environments.
 
 ---
 
@@ -25,7 +37,8 @@ I bring experience in:
 *   **Systems & Virtualization:** Windows Server, Linux, VMware, Hyper-V, and Proxmox.
 *   **Networking:** TCP/IP, DNS, DHCP, VPN, routing, NAT, subnetting, load balancing, SSL/TLS, and firewall rules
 *   **Identity & Cloud:** Active Directory, IAM, Office 365, Google Workspace, AWS, and Azure.
-*   **Containers & Tooling:** Docker, Podman, Bash scripting, and Git.
+*   **Containers & Tooling:** Docker, Podman, Ansible, Bash scripting, and Git (*Currently building:* Go).
+*   **Monitoring & Security:** Zabbix, Wazuh
 *   **Databases:** SQL, Postgres.
 *   **Hardware & Infrastructure:** Dell/HP enterprise servers, Cisco devices, and Synology storage arrays.
 *   **ITAM:** Snipe-IT, GLPI.
@@ -33,4 +46,4 @@ I bring experience in:
 *   **Ticketing & User Support:** Spiceworks, ManageEngine, Zohodesk, Anydesk, Microsoft Teams, Teamviewer.
 
 ---
-[See how i got experience here --->](logs.md)
+[See how i got this experience --->](logs.md)
