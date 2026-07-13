@@ -1,6 +1,6 @@
 # OpenSauce
 
-## Why this Blog exists
+### Why this Blog exists
 I didn't start this blog because I have everything figured out.
 
 Quite the opposite.
