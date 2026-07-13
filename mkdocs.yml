@@ -39,6 +39,10 @@ theme:
     - toc.follow
     - content.code.copy
     - content.tabs.link
+    - pymdownx.details
+    - pymdownx.superfences
+    
+
 
 
 
